@@ -1,0 +1,33 @@
+.card {
+  border: 3px solid green;
+  padding: 20px ;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card h3 {
+  margin: 5px 0px;
+}
+
+.wrapper {
+  margin-top: 50px;
+}
+
+.content {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.item-input {
+  border: 2px solid green;
+  margin-right: 20px;
+  width: 80%;
+}
+
+.card button {
+  padding: 7px 7px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: green;
+    color: white;
+}
